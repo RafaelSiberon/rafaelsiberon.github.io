@@ -35,7 +35,7 @@ Interactive CLI tool applying PCA, t-SNE, LDA, and UMAP on the MNIST dataset for
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/RafaelSiberon/rafaelsiberon.github.io/blob/master/Images/buho_logo.png"> **[Suite PSBI](https://github.com/RafaelSiberon)**
+<img align="left" width="150" height="150" src="https://github.com/RafaelSiberon/rafaelsiberon.github.io/blob/master/Images/buho_logo.png"> **[Suite PSBI](https://github.com/RafaelSiberon)**
 Institutional library management system built for Puerto Rico's Department of Education (DEPR). Features catalog management (MARC 21), circulation, member ID cards, inventory, AI-powered integration plans, and a communication system via Supabase and FastAPI.
 
 #
