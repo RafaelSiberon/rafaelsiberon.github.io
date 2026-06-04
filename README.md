@@ -1,14 +1,17 @@
-# Data Science Portfolio - Arch Desai
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+# Data Science Portfolio - Rafael Siberon
 
-- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
+This portfolio is a compilation of all the Data Science and Data Analysis projects I have done 
+for academic and self-learning purposes. It also contains my achievements, skills, and certificates. 
+It is updated on a regular basis.
+
+- **Email**: rafaelsiberon@gmail.com.com
+- **LinkedIn**: linkedin.com/in/rafael-siberon-caraballo-9a5966322/
 
 ## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+- Student at Terminal34 Data Science Bootcamp.
+- Certified School Librarian, Puerto Rico Department of Education.
+- Developer of Suite PSBI – a library management system built for DEPR school libraries.
+- Developer of CAP UAV Flight Log – a desktop app for Civil Air Patrol Puerto Rico Wing.
 
 ## Projects
 
