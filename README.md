@@ -15,7 +15,7 @@ It is updated on a regular basis.
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/RafaelSiberon/rafaelsiberon.github.io/blob/master/Images/sf_crime.jpg"> **[SF Crime Classification](https://github.com/RafaelSiberon)**
+<img align="left" width="250" height="150" src="https://github.com/RafaelSiberon/rafaelsiberon.github.io/blob/master/Images/sf_crime.png"> **[SF Crime Classification](https://github.com/RafaelSiberon)**
 Classification of San Francisco crimes using Logistic Regression, Decision Tree, and Random Forest. The best model was selected based on accuracy and F1-score performance.
 
 <br clear="left"/>
