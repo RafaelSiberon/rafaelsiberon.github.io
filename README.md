@@ -62,6 +62,9 @@ Windows desktop application for Civil Air Patrol Puerto Rico Wing. Features flig
 - **Languages**: Python (Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn), SQL, Dart/Flutter
 - **Tools**: Git, Google Colab, SQLite, Supabase, FastAPI, CustomTkinter, HuggingFace Spaces, Streamlit, Label Studio
 
+<!-- 
 ## Certificates
+- [Terminal34 Data Science Bootcamp](https://github.com/RafaelSiberon)
+-->
 
 - [Terminal34 Data Science Bootcamp](https://github.com/RafaelSiberon)
