@@ -66,5 +66,3 @@ Windows desktop application for Civil Air Patrol Puerto Rico Wing. Features flig
 ## Certificates
 - [Terminal34 Data Science Bootcamp](https://github.com/RafaelSiberon)
 -->
-
-- [Terminal34 Data Science Bootcamp](https://github.com/RafaelSiberon)
